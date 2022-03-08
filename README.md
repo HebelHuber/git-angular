@@ -39,3 +39,5 @@ You can find the issues for this extension at https://github.com/HebelHuber/git-
 ## Notes
 
 This is the very beginning of this extension, and it is possible that I might change the format of how the scopes/types are stored (thinking about using an object so that I might add a description). Just know that if you use this, in a future I may note that we are no longer using pure arrays.
+
+LOL!
